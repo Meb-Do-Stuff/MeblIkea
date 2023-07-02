@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**MeblIkea/MeblIkea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I've highly contributed for Jalopy Modding Community [Jalopy](https://github.com/Jalopy-Mods).
 
-Here are some ideas to get you started:
+## Here are my languages:
+### Naturals:
+- English
+- French
+- Swedish
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming:
+- Python (3 years)
+- Web (2 years)
+- Fortran (1 year)
+- C# (1 year)
