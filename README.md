@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I've highly contributed for Jalopy Modding Community [Jalopy](https://github.com/Jalopy-Mods).
+### I've highly contributed for [Jalopy Modding Community](https://github.com/Jalopy-Mods).
 
 ## Here are my languages:
 ### Naturals:
