@@ -6,6 +6,7 @@
 ### Naturals:
 - English
 - French
+- Swedish
 
 ### Programming:
 - Python (3 years)
