@@ -11,3 +11,5 @@
 ### Programming:
 - Python (3 years)
 - C# (1 year)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meblikea&langs_count=16&theme=github_dark&layout=compact)
